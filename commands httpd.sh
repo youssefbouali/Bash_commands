@@ -7,7 +7,7 @@ systemctl stop firewalld
 systemctl enable httpd
 systemctl start httpd
 nano /var/www/html/index.html
-https://labs.wsoum.ml/web_editor/code/ista
+https://labs.wsoum.eu.org/web_editor/code/ista
 
 <html>
 <head>
@@ -60,7 +60,7 @@ www	CNAME	web.ista.ma.
 
 
 nano /var/www/site2.ma/public_html/index.html
-https://labs.wsoum.ml/web_editor/code/ista
+https://labs.wsoum.eu.org/web_editor/code/ista
 
 <html>
 <head>
